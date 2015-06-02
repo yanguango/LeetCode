@@ -1,10 +1,12 @@
+import java.util.List;
+
 public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        TwoSum sol = new TwoSum();
-        int[] nums = new int[]{1,2,3};
-        int[] res = sol.twoSum(nums, 5);
-        System.out.println(res[0]);
+        ThreeSum sol = new ThreeSum();
+        int[] nums = new int[]{0,-4,-1,-4,-2,-3,2};
+        List<List<Integer>> res = sol.threeSum(nums);
+        System.out.println(res.size());
     }
 }

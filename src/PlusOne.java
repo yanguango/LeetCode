@@ -9,7 +9,7 @@ public class PlusOne {
         if(carry == 0) return digits;
         int res[] = new int[digits.length + 1];
         res[0] = carry;
-        for(int i = 0; i < digits.length; i++) res[i + 1] = digits[i];
+        System.arraycopy(digits, 0, res, 1, digits.length);
         return res;
     }
 }
