@@ -225,7 +225,7 @@
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](./PalindromeNumber.java) |Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Java](./StringToInteger.java)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](./ReverseInteger.java)|Easy|
-|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| |Easy|
+|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Java](./ZigZagConversion.java) |Easy|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| |Medium|
 |4|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Java](./AddTwoNumbers.java) |Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java](./LongestSubstringWithoutRepeatingCharacters.java) |Medium|
