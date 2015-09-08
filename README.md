@@ -1,7 +1,7 @@
 | # | Title | Solution | Difficulty | Analysis |
 | ------------- | ------------- | ---------------- | -----------| --------- |
 |278| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](./FirstBadVersion.java)| Easy |[Link](http://yanguango.com/posts/2015/09/08/leetcode-first-bad-version/)|
-|277| [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [Java](./FindTheCelebrity.java)| Medium |
+|277| [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [Java](./FindTheCelebrity.java)| Medium |[Link](http://yanguango.com/posts/2015/09/08/leetcode-find-the-celebrity/)|
 |276|[Paint Fence](https://leetcode.com/problems/paint-fence/)|[Java](./PaintFence.java) |Medium|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./MissingNumber.java) |Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](./UglyNumber.java)|Easy|
