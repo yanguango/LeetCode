@@ -161,7 +161,7 @@
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Java](./SearchA2DMatrix.java) |Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Java](./SetMatrixZeros.java) |Medium|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)| |Hard|
-|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)| |Medium|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)|[Java](./SimplifyPath.java) |Medium|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| |Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](./Sqrt.java) |Medium|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)| |Hard|
