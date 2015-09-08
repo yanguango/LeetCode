@@ -1,6 +1,7 @@
 | # | Title | Solution | Difficulty | Analysis |
 | ------------- | ------------- | ---------------- | -----------| --------- |
 |278| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](./FirstBadVersion.java)| Easy | [Link](http://yanguango.com/posts/2015/09/08/leetcode-first-bad-version/)|
+|258|[Add Digits](https://leetcode.com/problems/add-digits/)| |Easy|
 |226|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| |Easy|
 |225|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)||Medium|
 |224|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)||Medium|
@@ -104,9 +105,9 @@
 |126|[Word Ladder](https://leetcode.com/problems/word-ladder/)| |Medium|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| |Easy|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| |Hard|
-|123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| |Hard|
-|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| |Medium|
-|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| |Medium|
+|123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Java](./BestTimeToBuyAndSellStock3.java) |Hard|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Java](./BestTimeToBuyAndSellStock2.java) |Medium|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Java](./BestTimeToBuyAndSellStock.java)|Medium|
 |120|[Triangle](https://leetcode.com/problems/triangle/)| |Medium|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| |Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| |Easy|
@@ -148,7 +149,7 @@
 |82|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| |Easy|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| |Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| |Medium|
-|79|[Word Search](https://leetcode.com/problems/word-search/)| |Medium|
+|79|[Word Search](https://leetcode.com/problems/word-search/)| [Java](./WordSearch.java)|Medium|
 |78|[Subsets](https://leetcode.com/problems/subsets/)| |Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations/)| |Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)| |Hard|
@@ -162,7 +163,7 @@
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)| |Hard|
 |67|[Plus One](https://leetcode.com/problems/plus-one/)| |Easy|
 |66|[Valid Number](https://leetcode.com/problems/valid-number/)| |Easy|
-|65|[Add Binary](https://leetcode.com/problems/add-binary/)| |Easy|
+|65|[Add Binary](https://leetcode.com/problems/add-binary/)| [Java](./AddBinary.java) |Easy|
 |64|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| |Easy|
 |63|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| |Medium|
 |62|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| |Medium|
@@ -223,7 +224,7 @@
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| |Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| |Easy|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| |Medium|
-|4|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| |Medium|
+|4|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Java](./AddTwoNumbers.java) |Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| |Medium|
 |2|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| |Hard|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| |Medium|
