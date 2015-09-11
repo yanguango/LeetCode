@@ -150,8 +150,8 @@
 |86|[Partition List](https://leetcode.com/problems/partition-list/)| [Java](./PartitionList.java)|Medium|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)| |Hard|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| |Hard|
-|83|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Java](./RemoveDuplicatesFromSortedList2.java) |Medium|
-|82|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./RemoveDuplicatesFromSortedList.java) |Easy|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Java](./RemoveDuplicatesFromSortedList2.java) |Medium|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./RemoveDuplicatesFromSortedList.java) |Easy|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Java](./SearchInRotatedSortedArray.java) |Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[Java](./RemoveDuplicatesFromSortedArray2.java) |Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)| [Java](./WordSearch.java)|Medium|
@@ -166,53 +166,53 @@
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| |Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Java](./Sqrt.java) |Medium|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)| |Hard|
-|67|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./PlusOne.java) |Easy|
-|66|[Valid Number](https://leetcode.com/problems/valid-number/)| |Easy|
-|65|[Add Binary](https://leetcode.com/problems/add-binary/)| [Java](./AddBinary.java) |Easy|
-|64|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](./MergeTwoSortedLists.java) |Easy|
-|63|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| |Medium|
-|62|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| |Medium|
-|61|[Unique Paths](https://leetcode.com/problems/unique-paths/)| |Medium|
-|60|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Java](./RotateList.java) |Medium|
-|59|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)| [Java](./PermutationSequence.java)|Medium|
-|58|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Java](./SpiralMatrix2.java) |Medium|
-|57|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](./LengthOfLastWord.java) |Easy|
-|56|[Insert Interval](https://leetcode.com/problems/insert-interval/)| |Hard|
-|55|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](./MergeIntervals.java) |Hard|
-|54|[Jump Game](https://leetcode.com/problems/jump-game/)| [Java](./JumpGame.java)|Medium|
-|53|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](./SpiralMatrix.java)|Medium|
-|52|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./MaximumSubarray.java) |Medium|
-|51|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)| |Hard|
-|50|[N-Queens](https://leetcode.com/problems/n-queens/)| |Hard|
-|49|["Pow(x, n)"](https://leetcode.com/problems/powx-n/)| [Java](./Pow.java)|Medium|
-|48|[Group Anagrams](https://leetcode.com/problems/anagrams/)|[Java](./GroupAnagrams.java) |Medium|
-|47|[Rotate Image](https://leetcode.com/problems/rotate-image/)| |Medium|
-|46|[Permutations II](https://leetcode.com/problems/permutations-ii/)| |Hard|
-|45|[Permutations](https://leetcode.com/problems/permutations/)| |Medium|
-|44|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [Java](./JumpGame2.java)|Hard|
-|43|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)| |Hard|
-|42|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](./MultiplyStrings.java) |Medium|
-|41|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](./TrappingRainWater.java) |Hard|
-|40|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| [Java](./FirstMissingPositive.java)|Hard|
-|39|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| |Medium|
-|38|[Combination Sum](https://leetcode.com/problems/combination-sum/)| |Medium|
-|37|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](./CountAndSay.java) |Easy|
-|36|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| |Hard|
-|35|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](./ValidSudoku.java) |Easy|
-|34|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| |Medium|
-|33|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[Java](./SearchForARange.java) |Medium|
-|32|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java](./SearchInRotatedSortedArray.java) |Hard|
-|31|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| |Hard|
-|30|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Java](./NextPermutation.java) |Medium|
-|29|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| |Hard|
-|28|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| |Medium|
-|27|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](./ImplementStrStr.java) |Easy|
-|26|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](./RemoveElement.java) |Easy|
-|25|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./RemoveDuplicatesFromSortedArray.java) |Easy|
-|24|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| |Hard|
-|23|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](./SwapNodesInPairs.java) |Medium|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)| [Java](./AddBinary.java) |Easy|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)|[Java](./PlusOne.java) |Easy|
+|65|[Valid Number](https://leetcode.com/problems/valid-number/)| |Easy|
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| |Medium|
+|63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| |Medium|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| |Medium|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[Java](./RotateList.java) |Medium|
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)| [Java](./PermutationSequence.java)|Medium|
+|59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)|[Java](./SpiralMatrix2.java) |Medium|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](./LengthOfLastWord.java) |Easy|
+|57|[Insert Interval](https://leetcode.com/problems/insert-interval/)| |Hard|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[Java](./MergeIntervals.java) |Hard|
+|55|[Jump Game](https://leetcode.com/problems/jump-game/)| [Java](./JumpGame.java)|Medium|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](./SpiralMatrix.java)|Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./MaximumSubarray.java) |Medium|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)| |Hard|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)| |Hard|
+|50|["Pow(x, n)"](https://leetcode.com/problems/powx-n/)| [Java](./Pow.java)|Medium|
+|49|[Group Anagrams](https://leetcode.com/problems/anagrams/)|[Java](./GroupAnagrams.java) |Medium|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)| |Medium|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/)| |Hard|
+|46|[Permutations](https://leetcode.com/problems/permutations/)| |Medium|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [Java](./JumpGame2.java)|Hard|
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)| |Hard|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)|[Java](./MultiplyStrings.java) |Medium|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Java](./TrappingRainWater.java) |Hard|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| [Java](./FirstMissingPositive.java)|Hard|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| |Medium|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| |Medium|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)|[Java](./CountAndSay.java) |Easy|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| |Hard|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Java](./ValidSudoku.java) |Easy|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| |Medium|
+|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[Java](./SearchForARange.java) |Medium|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java](./SearchInRotatedSortedArray.java) |Hard|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| |Hard|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)|[Java](./NextPermutation.java) |Medium|
+|30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| |Hard|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| |Medium|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Java](./ImplementStrStr.java) |Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](./RemoveElement.java) |Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./RemoveDuplicatesFromSortedArray.java) |Easy|
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| |Hard|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](./SwapNodesInPairs.java) |Medium|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| |Hard|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](./GenerateParentheses.java) |Medium|
-|21|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| |Hard|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](./MergeTwoSortedLists.java) |Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./ValidParentheses.java) |Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](./RemoveNthNodeFromEndOfList.java) |Easy|
 |18|[4Sum](https://leetcode.com/problems/4sum/)| |Medium|
