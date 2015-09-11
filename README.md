@@ -215,8 +215,8 @@
 |21|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| |Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./ValidParentheses.java) |Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](./RemoveNthNodeFromEndOfList.java) |Easy|
-|18|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| |Medium|
-|17|[4Sum](https://leetcode.com/problems/4sum/)| |Medium|
+|18|[4Sum](https://leetcode.com/problems/4sum/)| |Medium|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| |Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| |Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Java](./ThreeSum.java) |Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](./LongestCommonPrefix.java) |Easy|
@@ -229,7 +229,7 @@
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](./ReverseInteger.java)|Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Java](./ZigZagConversion.java) |Easy|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| |Medium|
-|4|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Java](./AddTwoNumbers.java) |Medium|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| |Hard|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java](./LongestSubstringWithoutRepeatingCharacters.java) |Medium|
-|2|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| |Hard|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Java](./AddTwoNumbers.java) |Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](./TwoSum.java) |Medium|
