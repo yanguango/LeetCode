@@ -6,6 +6,7 @@
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./MissingNumber.java) |Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](./UglyNumber.java)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| |Easy|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Java](./PalindromeLinkedList.java) |Easy|
 |226|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./ValidAnagram.java) |Easy|
 |225|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)||Medium|
 |224|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)||Medium|
@@ -14,7 +15,7 @@
 |221|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Java](./DeleteNodeInALinkedList.java) |Easy|
 |220|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)| |Medium|
 |219|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| |Easy|
-|218|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Java](./PalindromeLinkedList.java) |Easy|
+|218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)| |Hard|
 |217|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)| |Medium|
 |216|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| |Easy|
 |215|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Java](./PowerOfTwo.java) |Easy|
@@ -30,7 +31,7 @@
 |205|[Maximal Square](https://leetcode.com/problems/maximal-square/)| |Medium|
 |204|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)| |Medium|
 |203|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| |Easy|
-|202|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)| |Hard|
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](./HappyNumber.java) |Easy|
 |201|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| |Easy|
 |200|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)| |Medium|
 |199|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| |Medium|
@@ -46,7 +47,7 @@
 |189|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[Java](./IsomorphicStrings.java) |Easy|
 |188|[Count Primes](https://leetcode.com/problems/count-primes/)|[Java](./CountPrimes.java) |Easy|
 |187|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](./RemoveLinkedListElements.java) |Easy|
-|186|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](./HappyNumber.java) |Easy|
+|186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/)|[Java](./ReverseWordsInAString2.java) |Medium|
 |185|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| |Medium|
 |184|[Number of Islands](https://leetcode.com/problems/number-of-islands/)| |Medium|
 |183|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| |Medium|
