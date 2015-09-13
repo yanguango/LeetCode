@@ -15,7 +15,7 @@
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| [Java](./ProductOfArrayExceptSelf.java)|Medium|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Java](./DeleteNodeInALinkedList.java) |Easy|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)| |Medium|
-|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| |Easy|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Java](./LowestCommonAncestorOfABinarySearchTree.java) |Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[Java](./PalindromeLinkedList.java) |Easy|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)| |Medium|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Java](./PowerOfTwo.java) |Easy|
