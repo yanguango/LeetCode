@@ -7,6 +7,7 @@
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./MissingNumber.java) |Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](./UglyNumber.java)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| |Easy|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./BinaryTreePaths.java)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./ValidAnagram.java) |Easy|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)||Medium|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)||Medium|
