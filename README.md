@@ -124,7 +124,7 @@
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java](./PathSum2.java) |Medium|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Java](./PathSum.java) |Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[Java](./MinimumDepthOfBinaryTree.java) |Easy|
-|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| |Easy|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Java](./BalancedBinaryTree.java) |Easy|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| |Medium|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| |Medium|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)|[Java](./BinaryTreeLevelOrderTraversal2.java) |Easy|
