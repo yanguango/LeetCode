@@ -62,7 +62,7 @@
 |176|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/)  | |Medium|
 |175|[Largest Number](https://leetcode.com/problems/largest-number/) | |Medium|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | |Hard|
-|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | |Medium|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) |[Java](./BinarySearchTreeIterator.java) |Medium|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [Java](./FactorialTrailingZeros.java)|Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](./ExcelSheetColumnNumber.java)|Easy|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)  | |Easy|
