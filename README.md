@@ -138,8 +138,8 @@
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)| |Hard|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| |Medium|
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)| |Hard|
-|96|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| |Medium|
-|95|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| |Medium|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Java](./UniqueBinarySearchTrees.java) |Medium|
+|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Java](./UniqueBinarySearchTrees2.java) |Medium|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| |Medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[Java](./RestoreIPAddresses.java) |Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Java](./ReverseLinkedList2.java)|Medium|
