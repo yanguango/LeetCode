@@ -119,7 +119,7 @@
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| |Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| |Easy|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| |Hard|
-|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| |Medium|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[Java](./PopulatingNextRightPointersInEachNode.java) |Medium|
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)| |Hard|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| |Medium|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)|[Java](./PathSum2.java) |Medium|
