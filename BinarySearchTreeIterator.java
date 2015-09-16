@@ -47,3 +47,43 @@ public class BSTIterator {
  * BSTIterator i = new BSTIterator(root);
  * while (i.hasNext()) v[f()] = i.next();
  */
+
+// Without using stack with Morris travesal
+public class BSTIterator1 {
+    private TreeNode current;
+    private TreeNode prev;
+
+    public BSTIterator1(TreeNode root) {
+        this.current = root;
+    }
+
+    /** @return whether we have a next smallest number */
+    public boolean hasNext() {
+        return current != null;
+    }
+
+    /** @return the next smallest number */
+    public int next() {
+        while (current != null) {
+            if (current.left == null) {
+                TreeNode res = current;
+                current = current.right;
+                return res.val;
+            } else {
+                prev = current.left;
+                while (prev.right != null && prev.right != current)
+                    prev = prev.right;
+                if (prev.right == null) {
+                    prev.right = current;
+                    current = current.left;
+                } else {
+                    prev.right = null;
+                    TreeNode res = current;
+                    current = current.right;
+                    return res.val;
+                }
+            }
+        }
+        return 0;
+    }
+}
