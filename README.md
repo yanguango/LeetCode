@@ -141,7 +141,7 @@
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)| |Hard|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)|[Java](./UniqueBinarySearchTrees.java) |Medium|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[Java](./UniqueBinarySearchTrees2.java) |Medium|
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| |Medium|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](./BinaryTreeInorderTraversal.java) |Medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)|[Java](./RestoreIPAddresses.java) |Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Java](./ReverseLinkedList2.java)|Medium|
 |91|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Java](./Subsets2.java) |Medium|
