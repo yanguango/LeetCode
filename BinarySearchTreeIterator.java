@@ -15,29 +15,22 @@ public class BSTIterator {
     public BSTIterator(TreeNode root) {
         this.current = root;
         this.stack = new ArrayDeque<TreeNode>();
-        while (current != null && current.left != null) {
-            stack.push(current);
-            current = current.left;
-        }
     }
 
     /** @return whether we have a next smallest number */
     public boolean hasNext() {
-        return current != null;
+        return current != null || !stack.isEmpty();
     }
 
     /** @return the next smallest number */
     public int next() {
-        int res = current.val;
-        if (current.right != null) {
-            current = current.right;
-            while (current.left != null) {
-                stack.push(current);
-                current = current.left;
-            }
-        } else {
-            current = stack.isEmpty() ? null : stack.pop();
+        while (current != null) {
+            stack.push(current);
+            current = current.left;
         }
+        TreeNode node = stack.pop();
+        int res = node.val;
+        current = node.right;
         return res;
     }
 }
