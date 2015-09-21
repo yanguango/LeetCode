@@ -1,7 +1,8 @@
 | # | Title | Solution | Difficulty | Analysis |
 | ------------- | ------------- | ---------------- | -----------| --------- |
-|278| [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](./FirstBadVersion.java)| Easy |[Link](http://yanguango.com/posts/2015/09/08/leetcode-first-bad-version/)|
-|277| [Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [Java](./FindTheCelebrity.java)| Medium |[Link](http://yanguango.com/posts/2015/09/08/leetcode-find-the-celebrity/)|
+|284|[Peeking Iterator](./https://leetcode.com/problems/peeking-iterator/)|[Java](./PeekingIterator.java)|Medium|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](./FirstBadVersion.java)| Easy |[Link](http://yanguango.com/posts/2015/09/08/leetcode-first-bad-version/)|
+|277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [Java](./FindTheCelebrity.java)| Medium |[Link](http://yanguango.com/posts/2015/09/08/leetcode-find-the-celebrity/)|
 |276|[Paint Fence](https://leetcode.com/problems/paint-fence/)|[Java](./PaintFence.java) |Medium|
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[Java](./ClosestBinarySearchTreeValue.java)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./MissingNumber.java) |Medium|
