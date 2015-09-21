@@ -1,6 +1,7 @@
 | # | Title | Solution | Difficulty | Analysis |
 | ------------- | ------------- | ---------------- | -----------| --------- |
 |284|[Peeking Iterator](./https://leetcode.com/problems/peeking-iterator/)|[Java](./PeekingIterator.java)|Medium|
+|283|[Move Zeros](./https://leetcode.com/problems/move-zeroes/)|[Java](./MoveZeros.java)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](./FirstBadVersion.java)| Easy |[Link](http://yanguango.com/posts/2015/09/08/leetcode-first-bad-version/)|
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [Java](./FindTheCelebrity.java)| Medium |[Link](http://yanguango.com/posts/2015/09/08/leetcode-find-the-celebrity/)|
 |276|[Paint Fence](https://leetcode.com/problems/paint-fence/)|[Java](./PaintFence.java) |Medium|
