@@ -214,7 +214,7 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./RemoveDuplicatesFromSortedArray.java) |Easy|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| |Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[Java](./SwapNodesInPairs.java) |Medium|
-|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| |Hard|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Java](./MergeKSortedLists.java) |Hard|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Java](./GenerateParentheses.java) |Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](./MergeTwoSortedLists.java) |Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./ValidParentheses.java) |Easy|
