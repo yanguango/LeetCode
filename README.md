@@ -189,7 +189,7 @@
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)| |Hard|
 |50|["Pow(x, n)"](https://leetcode.com/problems/powx-n/)| [Java](./Pow.java)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/anagrams/)|[Java](./GroupAnagrams.java) |Medium|
-|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)| |Medium|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](./RotateImage.java) |Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)| |Hard|
 |46|[Permutations](https://leetcode.com/problems/permutations/)| |Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [Java](./JumpGame2.java)|Hard|
