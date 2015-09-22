@@ -91,7 +91,7 @@
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)| |Hard|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)| |Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Java](./InsersionSortList.java) |Medium|
-|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)| |Hard|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Java](./LRUCache.java) |Hard|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| |Hard|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[Java](./BinaryTreePreorderTraversal.java) |Medium|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)| |Medium|
