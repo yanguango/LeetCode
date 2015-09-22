@@ -148,7 +148,7 @@
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)|[Java](./ReverseLinkedList2.java)|Medium|
 |91|[Subsets II](https://leetcode.com/problems/subsets-ii/)|[Java](./Subsets2.java) |Medium|
 |90|[Decode Ways](https://leetcode.com/problems/decode-ways/)| |Medium|
-|89|[Gray Code](https://leetcode.com/problems/gray-code/)| |Medium|
+|89|[Gray Code](https://leetcode.com/problems/gray-code/)|[Java](./GrayCode.java) |Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| |Easy|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/)| |Hard|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)| [Java](./PartitionList.java)|Medium|
