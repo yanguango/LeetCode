@@ -51,6 +51,7 @@
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)|[Java](./CountPrimes.java) |Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Java](./RemoveLinkedListElements.java) |Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[Java](./HappyNumber.java) |Easy|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[Java](./NumberOfIslands.java)|Medium|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Java](./BinaryTreeRightSideView.java)|Medium|
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/)|[Java](./ReverseWordsInAString2.java) |Medium|
 |185|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| |Medium|
