@@ -70,7 +70,7 @@
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/)  | |Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) |[Java](./MajorityElement.java) |Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Java](./ExcelSheetColumnTitle.java)|Easy|
-|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)  | |Medium|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Java](./TwoSum2.java) |Medium|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | |Medium|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Java](./CompareVersionNumbers.java)|Easy|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/) | |Hard|
