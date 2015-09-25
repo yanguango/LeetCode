@@ -236,7 +236,7 @@
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Java](./ReverseInteger.java)|Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Java](./ZigZagConversion.java) |Easy|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Java](./LongestPalindromicSubstring.java) |Medium|
-|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| |Hard|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Java](./MedianOfTwoSortedArrays.java) |Hard|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java](./LongestSubstringWithoutRepeatingCharacters.java) |Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Java](./AddTwoNumbers.java) |Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](./TwoSum.java) |Medium|
