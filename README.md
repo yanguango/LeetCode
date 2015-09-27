@@ -101,7 +101,7 @@
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[Java](./LinkedListCycle2.java) |Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Java](./LinkedListCycle.java) |Medium|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)| |Hard|
-|139|[Word Break](https://leetcode.com/problems/word-break/)| |Medium|
+|139|[Word Break](https://leetcode.com/problems/word-break/)|[Java](./WordBreak.java)|Medium|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| |Hard|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)| |Medium|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](./SingleNumber.java) |Medium|
