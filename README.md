@@ -77,7 +77,7 @@
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | |Medium|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Java](./CompareVersionNumbers.java)|Easy|
 |164|[Maximum Gap](https://leetcode.com/problems/maximum-gap/) | |Hard|
-|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)  | |Medium|
+|163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/)|[Java](./MissingRanges.java) |Medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [Java](./FindPeakElement.java)|Medium|
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | |Medium|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |[Java](./IntersectionOfTwoLinkedLists.java) |Easy|

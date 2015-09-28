@@ -1,11 +1,13 @@
-public class FindPeakElement {
+public class Solution {
     public int findPeakElement(int[] nums) {
-        if (nums.length == 1) return 0;
-        if (nums[0] > nums[1]) return 0;
-        for (int i = 1; i < nums.length - 1; i++) {
-            if (nums[i] > nums[i - 1] && nums[i] > nums[i + 1])
-                return i;
+        long prev = (long)Integer.MIN_VALUE - 1;
+        long next;
+        for (int i = 0; i < nums.length; i++) {
+            if (i == nums.length - 1) next = (long)Integer.MIN_VALUE - 1;
+            else next = nums[i + 1];
+            if (nums[i] > prev && nums[i] > next) return i;
+            prev = nums[i];
         }
-        return nums.length - 1;
+        return -1;
     }
 }
