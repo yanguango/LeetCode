@@ -40,7 +40,7 @@
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| |Easy|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)| |Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| |Medium|
-|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)| |Hard|
+|214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)|[Java](./ShortestPalindrome.java) |Hard|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| |Medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)|[Java](./WordSearch2.java) |Hard|
 |211|[Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/)|[Java](./AddAndSearchWord.java) |Medium|
