@@ -1,6 +1,7 @@
 | # | Title | Solution | Difficulty | Analysis |
 | ------------- | ------------- | ---------------- | -----------| --------- |
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Java](./FindTheDuplicateNumber.java)|Hard|
+|286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|[Java](./WallsAndGates.java)|Medium|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Java](./PeekingIterator.java)|Medium|
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes/)|[Java](./MoveZeros.java)|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Java](./PerfectSquares.java)|Medium|
