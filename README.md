@@ -1,5 +1,6 @@
 | # | Title | Solution | Difficulty | Analysis |
 | ------------- | ------------- | ---------------- | -----------| --------- |
+|292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Java](./NimGame.java)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Java](./WordPattern.java)|Easy|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[Java](./GameOfLife.java)|Easy|
 |288|[Unique Word Abbreviation ](https://leetcode.com/problems/unique-word-abbreviation/)|[Java](./UniqueWordAbbreviation.java)|Easy|
