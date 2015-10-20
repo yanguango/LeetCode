@@ -1,5 +1,6 @@
 | # | Title | Solution | Difficulty | Analysis |
 | ------------- | ------------- | ---------------- | -----------| --------- |
+|294|[Flip Game 2](https://leetcode.com/problems/flip-game-ii/)|[Java](./FlipGame2.java)|Medium|
 |293|[Flip Game](https://leetcode.com/problems/flip-game/)|[Java](./FlipGame.java)|Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Java](./NimGame.java)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Java](./WordPattern.java)|Easy|
