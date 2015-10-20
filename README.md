@@ -3,6 +3,7 @@
 |294|[Flip Game 2](https://leetcode.com/problems/flip-game-ii/)|[Java](./FlipGame2.java)|Medium|
 |293|[Flip Game](https://leetcode.com/problems/flip-game/)|[Java](./FlipGame.java)|Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Java](./NimGame.java)|Easy|
+|291|[Word Pattern 2](https://leetcode.com/problems/word-pattern-ii/)|[Java](./WordPattern2.java)|Hard|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Java](./WordPattern.java)|Easy|
 |289|[Game of Life](https://leetcode.com/problems/game-of-life/)|[Java](./GameOfLife.java)|Easy|
 |288|[Unique Word Abbreviation ](https://leetcode.com/problems/unique-word-abbreviation/)|[Java](./UniqueWordAbbreviation.java)|Easy|
