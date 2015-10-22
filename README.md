@@ -48,7 +48,7 @@
 |225|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](./ImplementStackUsingQueues.java) |Easy|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)| |Medium|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[Java](./RectangleArea.java) |Easy|
-|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| |Medium|
+|222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Java](./CountCompleteTreeNodes.java) |Medium|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/)| |Medium|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)| |Medium|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| |Easy|
