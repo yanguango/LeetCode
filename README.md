@@ -135,7 +135,7 @@
 |127|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)| |Hard|
 |126|[Word Ladder](https://leetcode.com/problems/word-ladder/)| |Medium|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](./ValidPalindrome.java) |Easy|
-|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| |Hard|
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[Java](./BinaryTreeMaximumPathSum.java) |Hard|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)|[Java](./BestTimeToBuyAndSellStock3.java) |Hard|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Java](./BestTimeToBuyAndSellStock2.java) |Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Java](./BestTimeToBuyAndSellStock.java)|Medium|
