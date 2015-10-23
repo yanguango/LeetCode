@@ -40,7 +40,7 @@
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)| |Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](./ImplementQueueUsingStacks.java)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)|[Java](./PowerOfTwo.java) |Easy|
-|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| |Medium|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)|[Java](KthSmallestElementInABST.java) |Medium|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Java](./MajorityElement2.java)|Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)|[Java](./SummaryRanges.java) |Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)| |Medium|
