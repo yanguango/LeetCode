@@ -1,5 +1,6 @@
 | # | Title | Solution | Difficulty | Analysis |
 | ------------- | ------------- | ---------------- | -----------| --------- |
+|295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Java](./FindMedianFromDataStream.java)|Hard|
 |294|[Flip Game 2](https://leetcode.com/problems/flip-game-ii/)|[Java](./FlipGame2.java)|Medium|
 |293|[Flip Game](https://leetcode.com/problems/flip-game/)|[Java](./FlipGame.java)|Easy|
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)|[Java](./NimGame.java)|Easy|
