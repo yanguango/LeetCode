@@ -1,5 +1,6 @@
 | # | Title | Solution | Difficulty | Analysis |
 | ------------- | ------------- | ---------------- | -----------| --------- |
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./LongestIncreasingSubsequence.java)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Java](BullsAndCows.java)|Easy|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Java](./FindMedianFromDataStream.java)|Hard|
 |294|[Flip Game 2](https://leetcode.com/problems/flip-game-ii/)|[Java](./FlipGame2.java)|Medium|
