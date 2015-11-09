@@ -1,5 +1,6 @@
 | # | Title | Solution | Difficulty | Analysis |
 | ------------- | ------------- | ---------------- | -----------| --------- |
+|302|[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/)|[Java](SmallestRectangleEnclosingBlackPixels.java)|Medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./LongestIncreasingSubsequence.java)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Java](BullsAndCows.java)|Easy|
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|[Java](BinaryTreeLongestConsecutiveSequence.java)|Medium|
@@ -114,7 +115,7 @@
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](./FindMinimumInRotatedSortedArray2.java) |Medium|
 |152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)| [Java](./MaximumProductSubarray.java)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Java](./ReverseWordsInAString.java) |Medium|
-|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| |Medium|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Java](EvaluateReversePolishNotation.java) |Medium|
 |149|[Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/)| |Hard|
 |148|[Sort List](https://leetcode.com/problems/sort-list/)| |Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)|[Java](./InsersionSortList.java) |Medium|
