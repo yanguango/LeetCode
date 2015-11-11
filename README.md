@@ -18,6 +18,7 @@
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Java](./PeekingIterator.java)|Medium|
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes/)|[Java](./MoveZeros.java)|Easy|
 |281|[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/)|[Java](./ZigzagIterator.java)|Medium|
+|280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|[Java](./WiggleSort.java)|Medium|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Java](./PerfectSquares.java)|Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](./FirstBadVersion.java)| Easy |[Link](http://yanguango.com/posts/2015/09/08/leetcode-first-bad-version/)|
 |277|[Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [Java](./FindTheCelebrity.java)| Medium |[Link](http://yanguango.com/posts/2015/09/08/leetcode-find-the-celebrity/)|
