@@ -17,6 +17,7 @@
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|[Java](./InorderSuccessorInBST.java)|Medium|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)|[Java](./PeekingIterator.java)|Medium|
 |283|[Move Zeros](https://leetcode.com/problems/move-zeroes/)|[Java](./MoveZeros.java)|Easy|
+|282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)|[Java](./ExpressionAddOperators.java)|Hard|
 |281|[Zigzag Iterator](https://leetcode.com/problems/zigzag-iterator/)|[Java](./ZigzagIterator.java)|Medium|
 |280|[Wiggle Sort](https://leetcode.com/problems/wiggle-sort/)|[Java](./WiggleSort.java)|Medium|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[Java](./PerfectSquares.java)|Medium|
