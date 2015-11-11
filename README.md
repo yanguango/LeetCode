@@ -30,6 +30,7 @@
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|[Java](./EncodeAndDecodeStrings.java)|Medium|
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[Java](./ClosestBinarySearchTreeValue.java)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Java](./MissingNumber.java) |Medium|
+|266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|[Java](./PalindromePermutation.java)|Easy|
 |264|[Ugly Number 2](https://leetcode.com/problems/ugly-number-ii/)|[Java](./UglyNumber2.java)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](./UglyNumber.java)|Easy|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| |Easy|
