@@ -4,6 +4,7 @@
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./LongestIncreasingSubsequence.java)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Java](BullsAndCows.java)|Easy|
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/)|[Java](BinaryTreeLongestConsecutiveSequence.java)|Medium|
+|296|[Best Meeting Point](https://leetcode.com/problems/best-meeting-point/)|[Java](./BestMeetingPoint.java)|Hard|
 |295|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[Java](./FindMedianFromDataStream.java)|Hard|
 |294|[Flip Game 2](https://leetcode.com/problems/flip-game-ii/)|[Java](./FlipGame2.java)|Medium|
 |293|[Flip Game](https://leetcode.com/problems/flip-game/)|[Java](./FlipGame.java)|Easy|
