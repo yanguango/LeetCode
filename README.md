@@ -36,6 +36,7 @@
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| |Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./BinaryTreePaths.java)|Easy|
 |255|[Verify Preorder Sequence in Binary Search Tree](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)|[Java](./VerifyPreorderSequenceInBinarySearchTree.java)|Medium|
+|252|[Meeting Rooms](https://leetcode.com/problemset/algorithms/)|[Java](./MeetingRooms.java)|Easy|
 |250|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|[Java](./CountUnivalueSubtrees.java)|Medium|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./ValidAnagram.java) |Easy|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)||Medium|
