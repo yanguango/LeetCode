@@ -42,6 +42,7 @@
 |252|[Meeting Rooms](https://leetcode.com/problemset/algorithms/)|[Java](./MeetingRooms.java)|Easy|
 |251|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)|[Java](./Flatten2DVector.java)|Medium|
 |250|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|[Java](./CountUnivalueSubtrees.java)|Medium|
+|246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)|[Java](./StrobogrammaticNumber.java)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./ValidAnagram.java) |Easy|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)||Medium|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)||Medium|
