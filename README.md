@@ -37,6 +37,7 @@
 |266|[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)|[Java](./PalindromePermutation.java)|Easy|
 |264|[Ugly Number 2](https://leetcode.com/problems/ugly-number-ii/)|[Java](./UglyNumber2.java)|Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)|[Java](./UglyNumber.java)|Easy|
+|261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|[Java](./GraphValidTree.java)|Medium|
 |259|[3 Sum Smaller](https://leetcode.com/problems/3sum-smaller/)|[Java](./ThreeSumSmaller.java)|Medium|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| |Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)|[Java](./BinaryTreePaths.java)|Easy|
