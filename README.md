@@ -1,6 +1,7 @@
 | # | Title | Solution | Difficulty | Analysis |
 | ------------- | ------------- | ---------------- | -----------| --------- |
 |305|[Number of Islands II ](https://leetcode.com/problems/number-of-islands-ii/)|[Java](NumberOfIslands2.java)|Hard|
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Java](RangeSumQueryImmutable.java)|Easy|
 |302|[Smallest Rectangle Enclosing Black Pixels](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/)|[Java](SmallestRectangleEnclosingBlackPixels.java)|Medium|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./LongestIncreasingSubsequence.java)|Medium|
 |299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)|[Java](BullsAndCows.java)|Easy|
