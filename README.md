@@ -1,5 +1,6 @@
 | # | Title | Solution | Difficulty | Analysis |
 | ------------- | ------------- | ---------------- | -----------| --------- |
+|306|[Additive Number](https://leetcode.com/problems/additive-number/)|[Java](./AdditiveNumber.java)|Medium|
 |305|[Number of Islands II ](https://leetcode.com/problems/number-of-islands-ii/)|[Java](NumberOfIslands2.java)|Hard|
 |304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)|[Java](RangeSumQuery2DImmutable.java)|Medium|
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)|[Java](RangeSumQueryImmutable.java)|Easy|
