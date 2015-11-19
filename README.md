@@ -47,6 +47,7 @@
 |252|[Meeting Rooms](https://leetcode.com/problemset/algorithms/)|[Java](./MeetingRooms.java)|Easy|
 |251|[Flatten 2D Vector](https://leetcode.com/problems/flatten-2d-vector/)|[Java](./Flatten2DVector.java)|Medium|
 |250|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|[Java](./CountUnivalueSubtrees.java)|Medium|
+|249|[Group Shiftd Strings](https://leetcode.com/problems/group-shifted-strings/)|[Java](./GroupShiftedStrings.java)|Easy|
 |247|[Strobogrammatic Number 2](https://leetcode.com/problems/strobogrammatic-number-ii/)|[Java](./StrobogrammaticNumber2.java)|Medium|
 |246|[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)|[Java](./StrobogrammaticNumber.java)|Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./ValidAnagram.java) |Easy|
