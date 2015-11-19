@@ -24,3 +24,27 @@ public class PopulatingNextRightPointersInEachNode2 {
         }
     }
 }
+
+public class Solution {
+    public void connect(TreeLinkNode root) {
+        TreeLinkNode nextLevelStart = root;
+        TreeLinkNode previous = null;
+        while (nextLevelStart != null) {
+            TreeLinkNode parent = nextLevelStart;
+            nextLevelStart = null;
+            previous = null;
+            while (parent != null) {
+                if (nextLevelStart == null) nextLevelStart = parent.left;
+                if (nextLevelStart == null) nextLevelStart = parent.right;
+                previous = connectNodes(previous, parent.left);
+                previous = connectNodes(previous, parent.right);
+                parent = parent.next;
+            }
+        }
+    }
+
+    public TreeLinkNode connectNodes(TreeLinkNode previous, TreeLinkNode next) {
+        if (previous != null) previous.next = next;
+        return next == null ? previous : next;
+    }
+}
