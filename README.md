@@ -153,7 +153,7 @@
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|[Java](./PalindromePartitioning.java) |Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)| |Medium|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| |Medium|
-|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| |Hard|
+|128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Java](./LongestConsecutiveSequence.java)|Hard|
 |127|[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)| |Hard|
 |126|[Word Ladder](https://leetcode.com/problems/word-ladder/)| |Medium|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](./ValidPalindrome.java) |Easy|
