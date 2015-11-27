@@ -196,7 +196,7 @@
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| |Easy|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/)| |Hard|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)| [Java](./PartitionList.java)|Medium|
-|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)| |Hard|
+|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[Java](./MaximalRectangle.java) |Hard|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Java](./LargestRectangleInHistogram.java) |Hard|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Java](./RemoveDuplicatesFromSortedList2.java) |Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./RemoveDuplicatesFromSortedList.java) |Easy|
