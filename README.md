@@ -71,7 +71,7 @@
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)|[Java](./BasicCalculator.java) |Medium|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)|[Java](./RectangleArea.java) |Easy|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)|[Java](./CountCompleteTreeNodes.java) |Medium|
-|221|[Maximal Square](https://leetcode.com/problems/maximal-square/)| |Medium|
+|221|[Maximal Square](https://leetcode.com/problems/maximal-square/)|[Java](./MaximalSquare.java) |Medium|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)| |Medium|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| |Easy|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[Java](./TheSkylineProblem.java) |Hard|
