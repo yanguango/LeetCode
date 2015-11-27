@@ -197,7 +197,7 @@
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/)| |Hard|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)| [Java](./PartitionList.java)|Medium|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)| |Hard|
-|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| |Hard|
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Java](./LargestRectangleInHistogram.java) |Hard|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[Java](./RemoveDuplicatesFromSortedList2.java) |Medium|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[Java](./RemoveDuplicatesFromSortedList.java) |Easy|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[Java](./SearchInRotatedSortedArray.java) |Medium|
